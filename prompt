@@ -1,7 +1,7 @@
 Build a full-stack Lost & Found website using React.js (frontend) and Node.js + Express + MongoDB (backend) with user registration, 
 login via phone & password (JWT authentication), and CRUD operations for lost/found items (with photo, category, location). Use Tailwind CSS 
 for UI, Google Maps API for location, and protect APIs so only logged-in users can post or view items.
-<br>
+
 The idea is to build a system — web, app, or both — where people can report, track, and recover lost items.
 🔹 Items can be identified using unique IDs (like QR codes, serial numbers) or location tagging (GPS, maps).
 🔹 Users should be able to either list something they found or search for something they lost.
